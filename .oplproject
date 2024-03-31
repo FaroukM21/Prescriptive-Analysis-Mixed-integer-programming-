@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration 1" category="opl">
+            			
+            <ref name="TP1.mod" type="model">
+			</ref>
+            			
+            <ref name="TP1.ops" type="setting">
+			</ref>
+            			
+            <ref name="TP1.dat" type="data">
+			</ref>
+            			
+            <ref name="params.ops" type="setting">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
